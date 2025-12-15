@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💼 About Me
-I am an engineering graduate with a strong foundation in manufacturing systems, operations optimization, and data-driven decision making. My academic and project experience spans cost engineering, production planning, supply chain analytics, and process improvement, with hands-on exposure to optimization models, dashboards, and operational data analysis.
+I am an engineering management graduate with a strong foundation in manufacturing systems, operations optimization, and data-driven decision making. My academic and project experience spans cost engineering, production planning, supply chain analytics, and process improvement, with hands-on exposure to optimization models, dashboards, and operational data analysis.
 
 I am currently focused on building practical skills at the intersection of **operations, supply chain management, and analytics**, with the goal of solving real-world industrial problems using structured thinking and data.
 
