@@ -1,140 +1,124 @@
 <div align="center">
 
-# Vansh Singh
-
-**Operations & Supply Chain Engineer | Building Data-Driven Solutions for Real-World Problems**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Vansh%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Supply%20Chain%20%7C%20Operations%20%7C%20Analytics&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-singh1203)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.v2@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Vanshsingh1203)
+[![Demand Forecast](https://img.shields.io/badge/Live%20Demo-Demand%20Forecast-6366f1?style=for-the-badge&logo=streamlit&logoColor=white)](https://demand-forecast-9hjy8sujmqrpxzcxnlgacb.streamlit.app/)
 
 </div>
 
----
+<br/>
 
-### About Me
+> *I build tools that help people make better decisions on the ground — whether it's an NGO volunteer tracking donations or a supply chain analyst calculating safety stock. The answer should be a click away, not buried in a spreadsheet.*
 
-MS in Engineering Management at **Northeastern University**  with a BE in Mechanical Engineering from **VIT Vellore**. Previously worked in cost engineering at **Tata Motors** and structural optimization at **Team Assailing Falcons**.
+<br/>
 
-I build tools that solve real operations problems. Every repository here is either deployed in production, built on real data, or designed to answer a question a supply chain manager would actually ask.
+## About Me
 
-Currently targeting **Supply Chain, Operations, and Inventory Management** roles where I can combine engineering thinking with data analytics.
+🎓 &nbsp; MS in Engineering Management — **Northeastern University**, Boston
 
----
+🎓 &nbsp; BE in Mechanical Engineering — **VIT**, Vellore
 
-### Featured Projects
+🔧 &nbsp; Previously at **Tata Motors** (Cost Engineering) and **Team Assailing Falcons** (Lean Ops & Fabrication)
+
+🎯 &nbsp; Targeting **Supply Chain, Inventory, and Operations Analytics** roles
+
+<br/>
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [NGO Inventory Management System](https://github.com/Vanshsingh1203/ngo-inventory-v2)
+### 🏭 [NGO Inventory System](https://github.com/Vanshsingh1203/ngo-inventory-v2)
 
-A production-grade donation tracking platform built for a real nonprofit. Tracks items across the **receive → store → distribute** pipeline with role-based access, real-time sync, and bilingual support.
+Production-grade donation tracking for a real nonprofit. Manages the full **receive → store → distribute** pipeline.
 
-**Key features:** 4 user roles, dark mode, EN/ES language toggle, quantity validation, shelf-location tracking, people served metrics, Excel report generation, onboarding tutorial
+`Role-Based Auth` `Real-Time Sync` `Dark Mode` `EN/ES Bilingual` `Excel Reports` `People Served Tracking` `Onboarding Tutorial`
 
-**Stack:** React · Supabase · Vercel
+**React** · **Supabase** · **Vercel** · **$0/month**
 
-[![Live Demo](https://img.shields.io/badge/Live-View%20App-10b981?style=flat-square)](https://ngo-inventory-v2.vercel.app)
+---
+
+<p align="center">
+<a href="https://ngo-inventory-v2.vercel.app"><img src="https://img.shields.io/badge/▶%20Live%20App-10b981?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Vanshsingh1203/ngo-inventory-v2"><img src="https://img.shields.io/badge/View%20Code-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-#### [Demand Forecasting & Inventory Optimization](https://github.com/Vanshsingh1203/demand-forecast)
+### 📊 [Demand Forecasting & Inventory Optimization](https://github.com/Vanshsingh1203/demand-forecast)
 
-Interactive analytics tool analyzing **1.7M+ retail sales records** across 54 stores and 33 product families. Compares 5 forecasting methods and calculates optimal inventory parameters.
+Analytics tool built on **1.7M+ sales records** across 54 stores. Compares 5 forecasting models and calculates optimal inventory.
 
-**Key features:** Moving Avg, Holt-Winters, ARIMA, Prophet, XGBoost comparison, EOQ/Safety Stock/ROP calculator, ABC analysis, What-If simulator
+`Moving Avg` `Holt-Winters` `ARIMA` `XGBoost` `EOQ` `Safety Stock` `ABC Analysis` `What-If Simulator`
 
-**Stack:** Python · Streamlit · statsmodels · scikit-learn
+**Python** · **Streamlit** · **statsmodels** · **scikit-learn**
 
-[![Live Demo](https://img.shields.io/badge/Live-View%20Dashboard-6366f1?style=flat-square)](https://demand-forecast-9hjy8sujmqrpxzcxnlgacb.streamlit.app/)
+---
+
+<p align="center">
+<a href="https://demand-forecast-9hjy8sujmqrpxzcxnlgacb.streamlit.app/"><img src="https://img.shields.io/badge/▶%20Live%20Dashboard-6366f1?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Vanshsingh1203/demand-forecast"><img src="https://img.shields.io/badge/View%20Code-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### What I Work With
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Analytics & Programming**
+| Analytics & Code | Data & Viz | Supply Chain Tools | Infrastructure |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Demand Forecasting | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Inventory Optimization | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | Warehouse Management | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | Lean / Six Sigma | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+</div>
 
-</td>
-<td valign="top" width="33%">
+<br/>
 
-**Data & Visualization**
+## Domain Knowledge
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Infrastructure & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-### Domain Expertise
+<div align="center">
 
 ```
-Supply Chain & Operations          Analytics & Optimization          Engineering & Quality
-─────────────────────────          ────────────────────────          ─────────────────────
-Demand Forecasting                 Time Series Analysis              Lean Manufacturing
-Inventory Optimization             Linear Programming                Six Sigma (Green Belt)
-Warehouse Management (WMS)         Statistical Process Control       DMAIC / 5S / Kaizen
-Procurement & Sourcing             KPI Dashboards (OTIF, Cycle Time) Root Cause Analysis
-Logistics & Lead Time Analysis     Monte Carlo Simulation            FMEA
-Capacity Planning                  Regression & Classification       SolidWorks (CSWP)
+Demand Forecasting  ·  Safety Stock & EOQ  ·  Reorder Point Analysis  ·  ABC/Pareto Classification
+Procurement & Sourcing  ·  Lead Time Optimization  ·  Capacity Planning  ·  Cost-Benefit Analysis
+Lean Manufacturing  ·  Six Sigma (Green Belt)  ·  DMAIC  ·  5S  ·  Statistical Process Control
+KPI Design (OTIF, Cycle Time, Dwell Time)  ·  Root Cause Analysis  ·  FMEA  ·  Process Mapping
 ```
 
+</div>
+
+<br/>
+
+## Coursework
+
+`Deterministic Operations Research` `Engineering Project Management` `Financial Management` `Supply Chain Management` `Manufacturing Planning & Control` `Quality Engineering` `Engineering Optimization` `Probability & Statistics`
+
+<br/>
+
 ---
-
-### Experience Snapshot
-
-| Role | Company | Focus |
-|------|---------|-------|
-| **Cost Engineering Intern** | Tata Motors | Built cost dashboards for 100+ machines, supplier analysis across 20+ vendors, material substitution feasibility |
-| **Structural Engineer** | Team Assailing Falcons | Led 12-member cross-functional team, lean workflow optimization, BOM tracking & procurement |
-
----
-
-### Education
-
-| Degree | School | Timeline |
-|--------|--------|----------|
-| **MS Engineering Management** | Northeastern University, Boston | 2025 – 2027 |
-| **BE Mechanical Engineering** | VIT, Vellore | 2021 – 2025 |
-
-**Relevant coursework:** Deterministic Operations Research, Engineering Project Management, Financial Management, Supply Chain Management, Manufacturing Planning & Control, Quality Engineering
 
 <div align="center">
 
 **Open to Supply Chain, Operations, and Analytics internship opportunities.**
 
-If something here caught your eye, let's connect.
+*If something here resonated, let's talk.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-singh1203)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-singh1203)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=100&section=footer" width="100%" />
 
 </div>
