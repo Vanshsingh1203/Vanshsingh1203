@@ -220,11 +220,9 @@ Data: 3M+ records · 54 stores · 33 product families · 4.5 years of history
 
 </div>
 
-### 📊 Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathamMahajan&color=brightgreen" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vanshsingh1203&color=6366f1&style=for-the-badge&label=Profile+Views" alt="profile views" />
 </p>
-
 ---
 
 
