@@ -14,7 +14,7 @@
 
 ### About Me
 
-MS in Engineering Management at **Northeastern University**  with a BE in Mechanical Engineering from **VIT**. Previously worked in cost engineering at **Tata Motors** and structural optimization at **Team Assailing Falcons**.
+MS in Engineering Management at **Northeastern University**  with a BE in Mechanical Engineering from **VIT Vellore**. Previously worked in cost engineering at **Tata Motors** and structural optimization at **Team Assailing Falcons**.
 
 I build tools that solve real operations problems. Every repository here is either deployed in production, built on real data, or designed to answer a question a supply chain manager would actually ask.
 
