@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-singh1203)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.v2@northeastern.edu)
-[![Demand Forecast](https://img.shields.io/badge/Live%20Demo-Demand%20Forecast-6366f1?style=for-the-badge&logo=streamlit&logoColor=white)](https://demand-forecast-9hjy8sujmqrpxzcxnlgacb.streamlit.app/)
+
 
 </div>
 
