@@ -129,16 +129,6 @@ Capacity Planning                  Regression & Classification       SolidWorks 
 
 **Relevant coursework:** Deterministic Operations Research, Engineering Project Management, Financial Management, Supply Chain Management, Manufacturing Planning & Control, Quality Engineering
 
----
-
-### What Drives Me
-
-I think the best supply chain work happens when you combine **engineering rigor** with **data intuition**. Most of my projects start with a simple question: *"What would actually help someone making decisions on the ground?"*
-
-Whether it's an NGO volunteer trying to find where the donated blankets went, or a supply chain analyst deciding how much safety stock to carry — the answer should be a click away, not buried in a spreadsheet.
-
----
-
 <div align="center">
 
 **Open to Supply Chain, Operations, and Analytics internship opportunities.**
