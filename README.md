@@ -76,6 +76,24 @@ Stack: Python · Streamlit · pandas · NumPy · statsmodels · scikit-learn · 
 Data: 3M+ records · 54 stores · 33 product families · 4.5 years of history
 ```
 
+<br/>
+
+### 🛡️ [ChainGuard - Pharma Cold Chain Compliance](https://github.com/Vanshsingh1203/chainguard-pharma-dashboard) &nbsp; [![Live](https://img.shields.io/badge/▶%20Live%20App-00d4aa?style=flat-square)](https://vanshsingh1203.github.io/chainguard-pharma-dashboard) [![Code](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Vanshsingh1203/chainguard-pharma-dashboard)
+
+> Premium real-time dashboard for pharmaceutical cold chain logistics. Monitors **500+ shipments**, predicts excursion risks using weighted scoring models, and ensures GDP compliance with actionable insights.
+
+| Risk Analytics | Monitoring & Tracking | Export & Reporting | Premium UX |
+|:---|:---|:---|:---|
+| Weighted risk scoring (Carrier 40%, Product 30%, Transit 20%, Temp 10%) | Real-time shipment status tracking | PDF compliance reports via jsPDF | Dark / Light theme with persistence |
+| Predictive at-risk identification | Temperature excursion detection | Excel export with multi-sheet data | Satoshi font (Apple-like design) |
+| Carrier performance analysis | Multi-status filtering (Delivered, In Transit, Delayed) | Customizable date ranges | Smooth animations & glow effects |
+| Route risk heatmap (US Map SVG) | Gantt-style timeline with zoom/pan | One-click data refresh | Responsive card-based layout |
+
+```
+Stack: React · Recharts · jsPDF · SheetJS · Context API · GitHub Pages
+Data: 500 simulated shipments · 5 carriers · 5 product types · Temperature readings
+```
+
 ---
 
 <div align="center">
@@ -220,9 +238,7 @@ Data: 3M+ records · 54 stores · 33 product families · 4.5 years of history
 
 </div>
 
-
 ---
-
 
 <div align="center">
 
