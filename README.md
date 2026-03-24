@@ -92,7 +92,7 @@ Data: 500 simulated shipments · 5 carriers · 5 product types · Temperature re
 
 <br/>
 
-### �icing: [Manufacturing Operations Platform (MOP)](https://github.com/Vanshsingh1203/manufacturing-operations-platform) &nbsp; [![Live](https://img.shields.io/badge/▶%20Live%20App-c41230?style=flat-square)](https://vanshsingh1203.github.io/manufacturing-operations-platform) [![Code](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Vanshsingh1203/manufacturing-operations-platform)
+### 🏭 : [Manufacturing Operations Platform (MOP)](https://github.com/Vanshsingh1203/manufacturing-operations-platform) &nbsp; [![Live](https://img.shields.io/badge/▶%20Live%20App-c41230?style=flat-square)](https://vanshsingh1203.github.io/manufacturing-operations-platform) [![Code](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Vanshsingh1203/manufacturing-operations-platform)
 
 > Enterprise manufacturing dashboard unifying **NPI tracking, production analytics, BOM cost analysis, and capacity planning** across 6 global plants. Addresses $1-2M/day visibility gaps with real-time OEE monitoring and what-if simulations.
 
