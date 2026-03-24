@@ -16,7 +16,6 @@
 <br/>
 
 ### `> whoami`
-
 ```yaml
 name: Vansh Singh
 location: Boston, MA
@@ -53,7 +52,6 @@ status: Open to Internship Opportunities
 | Email/password login via Supabase Auth | Quantity validation (can't exceed stock) | Excel report download with 4 data sheets | English / Spanish bilingual |
 | Session persistence across refreshes | Soft delete with audit trail | People served metrics (Individual & Family) | Spotlight onboarding tutorial |
 | Role-filtered navigation | Confirmation modals before every action | Category breakdown charts | Responsive on all devices |
-
 ```
 Stack: React · Supabase (Auth + PostgreSQL + Realtime) · Recharts · Lucide · SheetJS · Vercel
 ```
@@ -70,7 +68,6 @@ Stack: React · Supabase (Auth + PostgreSQL + Realtime) · Recharts · Lucide ·
 | Holt-Winters Exponential Smoothing | Safety Stock at 90/95/99% service levels | Seasonality & day-of-week patterns | Monthly / Weekly / Daily aggregation |
 | ARIMA with automated order selection | Reorder Point (ROP) calculation | Promotion impact analysis | What-If simulator with adjustable params |
 | XGBoost with lag feature engineering | Total cost curve visualization | Oil price correlation analysis | Accuracy comparison (MAE, RMSE, MAPE) |
-
 ```
 Stack: Python · Streamlit · pandas · NumPy · statsmodels · scikit-learn · XGBoost · Plotly · SciPy
 Data: 3M+ records · 54 stores · 33 product families · 4.5 years of history
@@ -88,10 +85,26 @@ Data: 3M+ records · 54 stores · 33 product families · 4.5 years of history
 | Predictive at-risk identification | Temperature excursion detection | Excel export with multi-sheet data | Satoshi font (Apple-like design) |
 | Carrier performance analysis | Multi-status filtering (Delivered, In Transit, Delayed) | Customizable date ranges | Smooth animations & glow effects |
 | Route risk heatmap (US Map SVG) | Gantt-style timeline with zoom/pan | One-click data refresh | Responsive card-based layout |
-
 ```
 Stack: React · Recharts · jsPDF · SheetJS · Context API · GitHub Pages
 Data: 500 simulated shipments · 5 carriers · 5 product types · Temperature readings
+```
+
+<br/>
+
+### �icing: [Manufacturing Operations Platform (MOP)](https://github.com/Vanshsingh1203/manufacturing-operations-platform) &nbsp; [![Live](https://img.shields.io/badge/▶%20Live%20App-c41230?style=flat-square)](https://vanshsingh1203.github.io/manufacturing-operations-platform) [![Code](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Vanshsingh1203/manufacturing-operations-platform)
+
+> Enterprise manufacturing dashboard unifying **NPI tracking, production analytics, BOM cost analysis, and capacity planning** across 6 global plants. Addresses $1-2M/day visibility gaps with real-time OEE monitoring and what-if simulations.
+
+| Production & OEE | NPI Tracking | Cost & Supply Chain | Capacity Planning |
+|:---|:---|:---|:---|
+| Real-time OEE gauge charts (A×P×Q) | 8 programs from Concept → SOP | 15 suppliers with quote comparison | 6-plant global utilization view |
+| Bottleneck detection with takt time | Readiness gates (Eng, Mfg, SC, Quality) | Should-cost variance analysis | What-if demand simulator (±20%) |
+| 9-station line balancing view | Risk management & milestone tracking | Material substitution calculator | Plant expansion ROI modeling |
+| Downtime Pareto analysis | Phase gate visualization | Sortable supplier tables | Side-by-side plant comparison |
+```
+Stack: React · Recharts · Vite · Context API · SheetJS · GitHub Pages
+Features: Dark/Light mode · Global search (/) · Animated counters · Excel export
 ```
 
 ---
