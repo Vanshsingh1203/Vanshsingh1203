@@ -42,7 +42,7 @@ status: Open to Internship Opportunities
 
 <br/>
 
-### 🏭 [NGO Inventory Management System](https://github.com/Vanshsingh1203/ngo-inventory-v2) &nbsp; [![Live](https://img.shields.io/badge/▶%20Live%20App-10b981?style=flat-square)](https://vercel.com/vanshsingh1203s-projects/ngo-inventory-v2-7pqg) [![Code](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Vanshsingh1203/ngo-inventory-v2)
+### 🏭 [NGO Inventory Management System](https://github.com/Vanshsingh1203/ngo-inventory-v2) &nbsp; [![Live](https://img.shields.io/badge/▶%20Live%20App-10b981?style=flat-square)](https://ngo-inventory-v2-7pqg.vercel.app/) [![Code](https://img.shields.io/badge/Source-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Vanshsingh1203/ngo-inventory-v2)
 
 > Production-grade donation tracking platform built for a real nonprofit. Manages the full **receive → store → distribute** pipeline with role-based access, real-time multi-device sync, and $0/month hosting.
 
